@@ -1,2 +1,2 @@
 # zcl_logger
-logger tool 
+Abap Simple Logger utility 
